@@ -1,0 +1,76 @@
+<?php
+
+.card-group{
+   
+}
+
+.logo-ilfontidimodena{
+    height: 40px;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.card-antipastos{
+
+}
+
+.card-menu{
+    background-color: white;
+    height: 60px;
+}
+
+h1{
+    text-align: center;
+}
+
+#carouselExampleFade {
+   margin:10px auto;
+    display:block;
+    width: 70%;
+}
+
+.fa-mobile-alt{
+    font-size: 25px;
+}
+
+.iconos{
+    text-align: center;
+}
+
+.fa-facebook-f{
+    font-size: 50px;
+    margin-right: 40px;
+    color: #cc1925;
+}
+
+.fa-instagram{
+    font-size: 50px;
+    margin-right: 40px;
+    color: #cc1925;
+}
+
+.fa-twitter{
+    font-size: 50px;
+    color: #cc1925;
+}
+
+.direc-footer{
+    text-align: center;
+    color: #707070;
+}
+
+.card{
+    border: 0px solid rgba(0,0,0,0);
+}
+
+.img-fluid{
+    margin-bottom: 30px;
+}
+
+h1{
+    color: #707070;
+}
+
+?>
